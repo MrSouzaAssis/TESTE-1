@@ -5,3 +5,4 @@ print("Olá matrix.")
 print("Hello")
 
 print("Hello")
+pwd
